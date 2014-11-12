@@ -1,6 +1,6 @@
 # zwak
 
-[여기로 가보시져](./index.html)
+[여기로 가보시져](http://0xabcdef.com/zwak/)
 
 ## License
 
